@@ -1,18 +1,17 @@
 
-- 👋 Hi, I'm Richard SS, I am 23 years old
-- 👀 I like the learn different technologies.
+👋 Hello, I'm Richard SS, I'm 23 years old
 
-- 🌱 I'm focused on web development, in the entire creation process, from the frontend to the backend.
+👀 I like to learn different technologies.
 
-I'm also learning about blockchains, smart contracts and all the possibilities they bring.
+🌱 I'm interested in web development, in the front-end I intend to expand my knowledge to the back-end.
 
-I dedicate a part of my time to learn linux and penetration and bug bount testing methodologies (as a hobby).
+I'm currently using ReactJs, Styled-components and Typescript
 
 I love technologies and their applications.
 
-I'm Study at home through the contents I find on the internet.
+I'm Studying at home through the contents I find on the internet.
 
-- 💞️
+- 💞️ Im brazilian
 
 - 📫 How to reach me ... 
     Email: richard_ss11@hotmail.com
@@ -20,15 +19,13 @@ I'm Study at home through the contents I find on the internet.
     linkedin: 
     
     
-Im brazilian
-- 👋 Olá, sou Richard SS, tenho 23 anos
-- 👀 Gosto de aprender diferentes tecnologias.
+👋 Olá, sou Richard SS, tenho 23 anos
 
-- 🌱 Estou focado no desenvolvimento web, em todo o processo de criação, do front end ao backend.
+👀 Gosto de aprender diferentes tecnologias.
 
-Também estou aprendendo sobre blockchains, contratos inteligentes e todas as possibilidades que eles trazem.
+🌱 Tenho interesse em desenvolvimento web, na parte de front-end pretendo expandir meus conhecimentos ao back-end.
 
-Dedico parte do meu tempo para aprender linux e metodologias de testes de penetração e bug bount (como hobby).
+Atualmente estou usando ReactJs, Styled-components e Typescript
 
 Adoro tecnologias e suas aplicações.
 
