@@ -1,5 +1,5 @@
 ### 👋 Olá, sou Richard Silva, tenho 23 anos
-## Pretendo ser um desenvolvedor fullstack
+## Desenvolvedor Front-end
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RICHARD77SS&show_icons=true&theme=dark)](https://github.com/RICHARD77SS/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RICHARD77SS&show_icons=true&theme=dark)](https://github.com/RICHARD77SS/github-readme-stats)
 
